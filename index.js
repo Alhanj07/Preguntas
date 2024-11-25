@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('ESPERO QUE SEA ESA LETRA PORQUE SI NO NO SE JAAJJAJAJA')
+    alert('SI ES ASI PS CREO QUE YA TENGO LA SOLUCIÓN (si quires saber que significa las palabras busca en el internet o en el diccionario AJSHDAJS)')
 });
 
 const noBtn = document.querySelector('#noBtn');
