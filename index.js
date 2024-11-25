@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('SI ES ASI PS CREO QUE YA TENGO LA SOLUCIÓN...si quires saber que significa las palabras busca en el internet o en el diccionario AJSHDAJS')
+    alert('SI ES ESO PS CREO QUE YA TENGO LA SOLUCIÓN YYY SI QUIERES SABER EL SIGNIFICADO DE LAS PALABRAS EN INTERNET ESTA JJAAJAJJAJA')
 });
 
 const noBtn = document.querySelector('#noBtn');
